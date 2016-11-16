@@ -1,6 +1,3 @@
-# ignore test files
-tests/*.json
-
 # ignore serverless files
 .serverless/*
 
@@ -9,3 +6,5 @@ node_modules/**
 
 #ignore env variables
 .env
+
+tests/main.js
