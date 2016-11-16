@@ -1,0 +1,31 @@
+testIntent debug
+testIntent vehicle state
+CarStatusIntent status
+CarStatusIntent what's your status
+CarStatusIntent how is your charge
+CarStatusIntent how much battery
+CarInteriorTempIntent what is the temp in the car
+CarStartHVACIntent start air condition
+CarStartHVACIntent start A C
+CarStartHVACIntent start cooling
+CarStartHVACIntent start heating
+CarStartHVACIntent start heater
+CarOpenPanoRoofIntent open roof
+CarOpenPanoRoofIntent open pano
+CarOpenPanoRoofIntent let the sun in
+CarClosePanoRoofIntent close roof
+CarClosePanoRoofIntent close pano
+CarHonkHornIntent honk horn
+CarLocationIntent where is my car
+CarLocationIntent location of car
+CarDistanceIntent how far away is the car
+CarDistanceIntent where is Sutapa
+CarDistanceIntent when is Sutapa getting home
+CarDistanceIntent when is the car getting home
+CarDistanceIntent when is Sutapa coming home
+CarDistanceIntent when is Mom coming home
+CarVentRoofIntent vent sun roof
+CarWakeUpIntent wake up
+CarWakeUpIntent get ready
+CarWakeUpIntent get to work
+CarSetTemperatureIntent set temp to {CarTemp}

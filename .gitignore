@@ -1,0 +1,11 @@
+# ignore test files
+tests/*.json
+
+# ignore serverless files
+.serverless/*
+
+#ignore node modules
+node_modules/**
+
+#ignore env variables
+.env

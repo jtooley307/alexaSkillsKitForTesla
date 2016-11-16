@@ -1,0 +1,29 @@
+{
+  "name": "Jim T",
+  "version": "1.0.0",
+  "description": "Tesla Skills Application for Amazon Echo",
+  "main": "index.js",
+  "dependencies": {
+    "geocoder": "^0.2",
+    "google-distance": "^1.0.1",
+    "alexa-sdk": "latest",
+    "aws-sdk": "latest",
+    "dotenv": "latest",
+    "teslams": "^1.1.6"
+  },
+  "devDependencies": {
+    "dpl": "3.5.0",
+    "serverless-test-plugin": "^0.2.4",
+    "serverless-mocha-plugin": "^1.2.0"
+  },
+  "scripts": {
+    "deploy": "dpl"
+  },
+  "author": "Jim Tooley",
+  "license": "MIT",
+  "files_to_deploy": [
+    "package.json",
+    "index.js",
+    "config.json"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "intents":  [
+                { "intent": "AMAZON.HelpIntent", "slots": [] },
+                { "intent": "AMAZON.StopIntent", "slots": [] },
+                { "intent": "AMAZON.CancelIntent", "slots": [] },
+                { "intent": "CarStatusIntent", "slots": [] },
+                { "intent": "CarInteriorTempIntent", "slots": []},
+                { "intent": "CarStartHVACIntent", "slots": [] },                
+                { "intent": "CarVentRoofIntent", "slots": [] },
+                { "intent": "CarSetTemperatureIntent", "slots": [ 
+                  {
+                    "name": "CarTemp",
+                    "type": "AMAZON.NUMBER"
+                  }
+                ] 
+                },
+                { "intent": "CarOpenPanoRoofIntent", "slots": [] },
+                { "intent": "CarClosePanoRoofIntent", "slots": [] },
+                { "intent": "CarHonkHornIntent", "slots": [] },
+                 { "intent": "CarDistanceIntent", "slots": [] },
+                { "intent": "CarLocationIntent", "slots": [] },
+                { "intent": "CarWakeUpIntent", "slots": [] },
+                { "intent": "testIntent", "slots": []}
+              ]
+}
