@@ -1,0 +1,24 @@
+{
+  "session": {
+    "sessionId": "SessionId.test1234",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4e93b479-6620-4a63-bebb-cc4f39823814"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "testuserId"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.36670777-c02f-4350-9884-d25136863308",
+    "locale": "en-US",
+    "timestamp": "2016-11-11T05:35:58Z",
+    "intent": {
+      "name": "testIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}

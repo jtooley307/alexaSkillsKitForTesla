@@ -1,0 +1,20 @@
+{
+"session": {
+  "sessionId": "session1234",
+  "application": {
+    "applicationId": "amzn1.ask.skill.4e93b479-6620-4a63-bebb-cc4f39823814"
+  },
+  "attributes": {},
+  "user": {
+    "userId": "jtooley307"
+  },
+  "new": true
+},
+  "request": {
+    "type": "LaunchRequest",
+    "requestId": "EdwRequestId.7670cf5a-acbd-42e5-89e9-961722202b4b",
+    "locale": "en-US",
+    "timestamp": "2016-11-11T04:43:14Z"
+  },
+  "version": "1.0"
+}
