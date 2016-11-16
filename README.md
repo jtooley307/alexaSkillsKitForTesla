@@ -22,17 +22,17 @@ Need to install
 - .bash_profile for env variables
 - AWS cli tools
 - Python and PIP
-- Apex for running deployments
+- Serverless for deployments
 - Visual Studio (open source)
 - teslams 
-- alexa sdk
+- alexa-sdk
 - lambda-local  (https://developer.amazon.com/public/community/post/Tx24Z2QZP5RRTG1/New-Alexa-Technical-Tutorial-Debugging-AWS-Lambda-Code-Locally
 )  npm install -g lambda-local
 - geocoder
-- google-matrix, 
-- .env (for credentials and home location)
+- google-matrix 
+- dotenv (for credentials and home location)
 - need to setup AWS account, and alexa SDK account
-- need a IAM aws account for Apex and debugging locally
+
 
 #deployments
 
