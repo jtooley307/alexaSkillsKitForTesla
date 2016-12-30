@@ -31,7 +31,7 @@ functions:
   tesla:
     handler: index.handler
     description: "Tesla Skills Application (serverless deployment)"
-    timeout: 5
+    timeout: 7
 
 plugins: 
   - serverless-mocha-plugin
