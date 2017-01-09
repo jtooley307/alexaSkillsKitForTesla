@@ -1,8 +1,14 @@
 {
-  "name": "Jim T",
+  "name": "Tesla Alexa Application",
   "version": "1.0.0",
   "description": "Tesla Skills Application for Amazon Echo",
   "main": "index.js",
+  "author": "Jim Tooley",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jtooley307"
+  },
   "dependencies": {
     "geocoder": "^0.2",
     "google-distance": "^1.0.1",
@@ -19,11 +25,8 @@
   "scripts": {
     "deploy": "dpl"
   },
-  "author": "Jim Tooley",
-  "license": "MIT",
   "files_to_deploy": [
     "package.json",
-    "index.js",
-    "config.json"
+    "index.js"
   ]
 }
